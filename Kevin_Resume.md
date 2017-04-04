@@ -45,7 +45,7 @@ Education
 2016
 :   **Full Stack Web Development**; Coding Dojo (San Jose, CA)
 
-   - Learned in Python, PHP, and Javascript
+   - Python, PHP, and Javascript
 
 2007-2010
 :   **Computer Science**; Canada College (Redwood City, CA)
